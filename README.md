@@ -1,2 +1,1 @@
-# project2
-just starting out...
+print("hello duniya")
